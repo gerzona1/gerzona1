@@ -2,7 +2,7 @@
 - 👀 I’m interested in scrum, agile, learning, ai
 - 🌱 I’m currently learning how to use github copilot and code without being a coder
 - 💞️ I’m looking to collaborate on ai projects
-- 📫 How to reach me teams
+- 📫 How to reach me: teams, alla_gerzon@vanguard.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: This is my first github readme ever
 
