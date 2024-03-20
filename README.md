@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gerzona1
+- 👋 Hi, I’m @gerzona1 aka Alla Gerzon
 - 👀 I’m interested in scrum, agile, learning, ai
 - 🌱 I’m currently learning how to use github copilot and code without being a coder
 - 💞️ I’m looking to collaborate on ai projects
